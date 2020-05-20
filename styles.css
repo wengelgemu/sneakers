@@ -1,0 +1,49 @@
+html{
+    background-color: #EDE8E4;
+    color: #232323;
+    
+}
+.row{
+    /* padding-right: 0px; */
+    width: 100%;
+    text-align: center;
+    display: table;
+}
+.header{
+    text-align: center;
+    font-family: futura-pt;
+    font-style: normal;
+    padding: 5%;
+    /* padding-right: 1200px; */
+    font-size: 60px;
+}
+.header:hover{
+    color: #34588E;
+}
+.shoe-listing{
+    list-style-type: none;
+    font-family: 'NorthBergen-Light';
+    font-style: bold;
+    font-size: 80px;
+}
+ul{
+    line-height: 50%;
+}
+
+a:link{
+    text-decoration: none;
+    color: #34588E;
+}
+a:hover{
+    /* font-family: 'Editorial New'; */
+    font-size: 110px;
+    color: white;
+}
+
+
+.page-bottom{
+    margin-top: 80px;
+    font-family: 'Futura';
+    padding-left: 40px;
+    text-align: center;
+}
